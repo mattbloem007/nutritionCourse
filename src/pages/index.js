@@ -29,14 +29,14 @@ const IndexPage = () => (
               Using the culinary powers of food to rebuild and strengthen the nervous system.
               Bringing back balance and attaining greater spiritual heights
               </p>
-                <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="btn btn-outline btn-xl">
+                <a target="_blank" href="https://shop.alchemyremember.me/product/6-week-nutritional-technology-course/" className="btn btn-outline btn-xl">
                   Join the Course
                 </a>
             </div>
           </div>
           <div className="col-lg-7 my-auto">
           <h1 className="section-heading">
-            19 September - 31 October 2020
+            1 December - 12 January 2020
           </h1>                  </div>
                 </div>
               </div>
@@ -207,7 +207,7 @@ const IndexPage = () => (
           As a facilitator, I have been blessed to unlock the ancient knowledge about nutrition and body-work healing.
           I have a complex understanding about the inner and outer workings of the body and brain and how to best optimize their functioning.
           </p>
-            <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="btn btn-outline btn-xl">
+            <a target="_blank" href="https://shop.alchemyremember.me/product/6-week-nutritional-technology-course/" className="btn btn-outline btn-xl">
               Join the Course
             </a>
           </div>
