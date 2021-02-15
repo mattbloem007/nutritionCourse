@@ -36,7 +36,7 @@ const IndexPage = () => (
           </div>
           <div className="col-lg-7 my-auto">
           <h1 className="section-heading">
-            1 December - 12 January 2020
+            28 March - 9 May 2021
           </h1>                  </div>
                 </div>
               </div>
